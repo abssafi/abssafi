@@ -12,6 +12,5 @@ My skillset includes:
 - ECG Monitoring Systems
 - DSP Systems
 
-*********************
-                      Happy Coding 😇  
-*********************  
+
+Happy Coding 😇  
