@@ -18,5 +18,5 @@ My skillset includes:
       -> DSP Systems
 
 *********************
-*  Happy Coding :)  *
+   Happy Coding 😇  
 *********************  
