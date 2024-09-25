@@ -3,20 +3,15 @@ Hi! Ayesha here🙋‍♀️. I'm an electrical engineer with a knack for data s
 My skillset includes:
 
 1️⃣ ASIC Design Verification:
-      -> RTL Design (Verilog/SystemVerilog)
-      -> UVM + Formal Verification
-      -> Physical Design
-
-
-2️⃣ Data Science:
-      -> Python
-
+      - RTL Design (Verilog/SystemVerilog)
+      - UVM + Formal Verification
+      - Physical Design
 
 3️⃣ MATLAB/Simulink:
-      -> Pulsed Radar Systems
-      -> ECG Monitoring Systems
-      -> DSP Systems
+      - Pulsed Radar Systems
+      - ECG Monitoring Systems
+      -DSP Systems
 
 *********************
-   Happy Coding 😇  
+                                                                                 Happy Coding 😇  
 *********************  
