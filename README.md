@@ -2,7 +2,7 @@ Hi! Ayesha here🙋‍♀️. I'm an electrical engineer with a knack for data s
 
 My skillset includes:
 
-1️⃣ ASIC Design Verification:
+1️⃣ Digital Design and Verification:
 - RTL Design (Verilog/SystemVerilog)
 - UVM + Formal Verification
 - Physical Design
